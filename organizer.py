@@ -26,6 +26,7 @@ organize_dict = {
     ".doc": "Office",
     ".docm" : "Office",
     ".docx" : "Office",
+    ".txt" : "Office"
 }
 
 
